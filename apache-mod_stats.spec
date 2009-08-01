@@ -8,7 +8,7 @@
 Summary:	Apache module collecting buildservice download statistics
 Name:		apache-%{mod_name}
 Version:	1.1
-Release:	%mkrel 0.%{snap}.5
+Release:	%mkrel 0.%{snap}.6
 Group:		System/Servers
 License:	Apache License
 URL:		http://en.opensuse.org/Build_Service/Redirector
